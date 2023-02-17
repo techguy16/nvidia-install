@@ -1,2 +1,2 @@
 # nvidia-install
-Install Nvidia Drivers on Linux
+Install NVIDIA Drivers on Linux easily and quickly.
